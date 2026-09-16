@@ -1,0 +1,11 @@
+PySide6
+numpy
+pandas
+matplotlib
+pymzml
+scikit-learn
+scipy
+scikit-image
+Pillow
+umap-learn
+
